@@ -28,6 +28,7 @@ The robot was designed and assembled using basic electronic components and a mod
 
 This hands-on hardware experience helped me better understand circuit design, sensor integration, and real-world implementation of autonomous behavior.
 
-<!-- Optional image if you have one -->
-<!-- ![Robot Photo] <img src="robot.jpeg" alt="robot screenshot" width="500">
+## Image
+<img src="robot.jpeg" alt="robot screenshot" width="500">
+
 
